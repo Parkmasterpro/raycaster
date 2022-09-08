@@ -1,33 +1,32 @@
 ::selection {
-			background: transparent;
-		}
-		html {
-			background: rgb(0, 255, 162);
-			text-align: center;
-		}
-		button {
-			background: rgb(255, 830, 130);
-			
-			font-family: monospace;
-			font-size: 40px;
-			margin-bottom: 50px;
-		}
-		#butotn {
-			filter: drop-shadow(5px 8px);
-		}
-		#butotn1 {
-			filter: drop-shadow(4px 7.5px);
-		}
-		#butotn2 {
-			filter: drop-shadow(3px 7px);
-		}
-		button:hover {
-			background: rgb(245, 245, 120);
-		}
-		#gamelle {
-			color: rgb(60, 200, 255);
-			text-shadow: 3.33333333333333333333333px 5.333333333333333333333px rgb(0, 0, 0);
-			font-family: fantasy;
-			font-size: 60px;
-			padding-bottom: 85px;
-		}
+	background: transparent;
+}
+html {
+	background: rgb(0, 255, 162);
+	text-align: center;
+}
+button {
+	background: rgb(255, 830, 130);		
+	font-family: monospace;
+	font-size: 40px;
+	margin-bottom: 50px;
+}
+#butotn {
+	filter: drop-shadow(5px 8px);
+}
+#butotn1 {
+	filter: drop-shadow(4px 7.5px);
+}
+#butotn2 {
+	filter: drop-shadow(3px 7px);
+}
+button:hover {
+	background: rgb(245, 245, 120);
+}
+#gamelle {
+	color: rgb(60, 200, 255);
+	text-shadow: 3.33333333333333333333333px 5.333333333333333333333px rgb(0, 0, 0);
+	font-family: fantasy;
+	font-size: 60px;
+	padding-bottom: 85px;
+}
