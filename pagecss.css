@@ -11,19 +11,19 @@ button {
 	font-size: 40px;
 	margin-bottom: 50px;
 }
-#butotn {
+#button {
 	filter: drop-shadow(5px 8px);
 }
-#butotn1 {
+#button1 {
 	filter: drop-shadow(4px 7.5px);
 }
-#butotn2 {
+#button2 {
 	filter: drop-shadow(3px 7px);
 }
 button:hover {
 	background: rgb(245, 245, 120);
 }
-#gamelle {
+#title {
 	color: rgb(60, 200, 255);
 	text-shadow: 3.33333333333333333333333px 5.333333333333333333333px rgb(0, 0, 0);
 	font-family: fantasy;
